@@ -11,3 +11,6 @@
 <!-- request.setCharacterEncoding("utf-8")과 같다. -->
 <fmt:requestEncoding value="utf-8" />
 
+<fmt:bundle basename="props.message">
+	<fmt:message key="GREETING" />
+</fmt:bundle>
