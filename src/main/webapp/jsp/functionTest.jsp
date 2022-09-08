@@ -10,4 +10,3 @@ ${str2='<hr />' ; ''}
 ${fn:length(str)}<br />
 ${str2}<br />
 ${fn:escapeXml(str2)}<br />
-
